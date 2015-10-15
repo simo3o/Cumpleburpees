@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Cumpleburpees</string>
+    <string name="action_settings">Settings</string>
+    <string name="question_age">Quants anys compleixes?</string>
+    <string name="hint_age">Edad</string>
+    <string name="button_calc">Calcular</string>
+    <string name="age_editText">Introdueix la teva edad</string>
+    <string name="logo">Cumpleburpee logo</string>
+    <string name="Hint_Age">Edad</string>
+</resources>
